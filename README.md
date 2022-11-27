@@ -1,19 +1,22 @@
-### Hi there 👋
+### Hi I am Maveraw 👋
 
-My Holopin Badges:
+
+
+
+
+- 🔭 I’m currently working on myself obv.
+- 🌱 I’m currently learning collaboration
+- 👯 I’m looking to collaborate on SWOC'23
+- 🤔 I’m looking for help with Branding
+- 💬 Ask me about the weather
+- 📫 How to reach me: vaishaliishu08@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: We are all star dust
+
+### My Holopin Badges:
 [![@maveraw6's Holopin board](https://holopin.me/maveraw6)](https://holopin.io/@maveraw6)
 
-<!--
-**maveraw/maveraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Profile Vi👁‍ws
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
