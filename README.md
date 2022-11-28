@@ -2,6 +2,7 @@
 
 
 
+![wy2o6nicut63th7nn6dg](https://user-images.githubusercontent.com/84138882/204184104-ba0f798a-d5af-4aed-8b99-ce4913ea1f16.jpg)
 
 
 - 🔭 I’m currently working on myself obv.
