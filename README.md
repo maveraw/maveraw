@@ -1,11 +1,13 @@
 ### Hi I am Maveraw 👋
 
 
+![wy2o6nicut63th7nn6dg (2)](https://user-images.githubusercontent.com/84138882/204187169-93e5da26-2274-41d8-adc6-735f7a0de46f.jpg)
 
-![wy2o6nicut63th7nn6dg](https://user-images.githubusercontent.com/84138882/204184104-ba0f798a-d5af-4aed-8b99-ce4913ea1f16.jpg)
 
 
-- 🔭 I’m currently working on myself obv.
+
+
+- 🔭 I’m currently working on my blogs.
 - 👯 I’m looking to collaborate on SWOC'23
 - 💬 Ask me about the weather
 - 😄 Pronouns: she/her
