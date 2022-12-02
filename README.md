@@ -1,12 +1,6 @@
 ## Hi, I am Vaishali 👋
 
 
-![kubecon place img (2) (1)](https://user-images.githubusercontent.com/84138882/204189315-00b94375-f6f7-4b8c-8c06-bfacb8e915a8.jpg)
-
-
-
-and i fell in love with this place Valencia ,Spain❤.
-
 
 
 
