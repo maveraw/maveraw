@@ -26,8 +26,6 @@
 
 
 
-### My Holopin Badges:
-[![@maveraw6's Holopin board](https://holopin.me/maveraw6)](https://holopin.io/@maveraw6)
 
 ## 👀
 ![](https://komarev.com/ghpvc/?username=maveraw&color=green)
